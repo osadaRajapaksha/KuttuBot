@@ -68,12 +68,12 @@ class Bot(Client):
         logging.info(f"{me.first_name} with for Pyrogram v{__version__} (Layer {layer}) started on {me.username}.")
         logging.info(LOG_STR)
         await self.send_message(chat_id=LOG_CHANNEL, text=script.RESTART_TXT)#RESTART SND IN LOG_CHANNEL
-        print("Goutham SER own Bot</>")
+        print("Reel Bot</>")
 
         try:
             await self.send_message(
                 chat_id=LOG_CHANNEL,
-                text="✅ Bot Started Successfully!\n⚡ Kuttu Bot¹ 💥"
+                text="✅ Bot Started Successfully!\n⚡ Reel Bot 💥"
             )
         except Exception as e:
             logging.error(f"Could not send start message: {e}")
@@ -124,7 +124,7 @@ class Bot(Client):
                 try:
                     await self.send_message(
                         chat_id=LOG_CHANNEL,
-                        text=f"| Kuttu Bot ¹ |\n⚠️ Bot will restart in 1 minute (every {interval}).",
+                        text=f"| Reel Bot |\n⚠️ Bot will restart in 1 minute (every {interval}).",
                     )
                 except Exception as e:
                     logging.error(f"Could not send restart warning: {e}")
