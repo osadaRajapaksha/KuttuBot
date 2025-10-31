@@ -7,7 +7,7 @@ class script(object):
 
 🚀 𝖠𝗇𝖽 𝗂’𝗅𝗅 𝗍𝖺𝗄𝖾 𝗂𝗍 𝖿𝗋𝗈𝗆 𝗍𝗁𝖾𝗋𝖾!
 
-<blockquote>©️ Maintained by <a href="https://t.me/im_goutham_josh">@im_goutham_josh</a></blockquote>"""
+<blockquote>©️ Maintained by <a href="https://t.me/reelcommunity">@reelcommunity</a></blockquote>"""
 
     HELP_TXT = """
 🙋🏻‍♂️ Hᴇʟʟᴏ {}! 🤓
@@ -27,20 +27,20 @@ class script(object):
 ⚠️ Pʟᴇᴀsᴇ ᴅᴏɴ’ᴛ sᴘᴀᴍ ᴛʜᴇ ʙᴏᴛ. 🙂
 """
     ABOUT_TXT = """<b>
-<blockquote>🤖 Nᴀᴍᴇ: ᴋᴜᴛᴛᴜ ʙᴏᴛ™</blockquote>
+<blockquote>🤖 Nᴀᴍᴇ: Reel Bot</blockquote>
 
-👨‍💻 Cʀᴇᴀᴛᴏʀ: <a href="https://t.me/im_goutham_josh">Goutham SER</a>  
+👨‍💻 Cʀᴇᴀᴛᴏʀ: <a href="https://t.me/reelcommunity">Reel Community</a>  
 💬 Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3  
 🗄️ Dᴀᴛᴀʙᴀsᴇ: Mᴏɴɢᴏ DB  
 🌐 Sᴇʀᴠᴇʀ: KᴏYᴇʙ
 </b>"""
     SOURCE_TXT = """<b>📢 NOTE:</b>
-<blockquote>ᴋᴜᴛᴛᴜ ʙᴏᴛ™ is an open source project.</blockquote>
+<blockquote>Reel Bot is an open source project.</blockquote>
 
 🔗 <b>Source Code:</b> <a href="https://github.com/GouthamSER">Click Here 😂</a>
 
 <b>👨‍💻 DEVS:</b>  
-<blockquote><a href="https://t.me/wudixh12">Gᴏᴜᴛʜᴀᴍ Josh ✅</a></blockquote>
+<blockquote><a href="https://t.me/reelcommunity">Reel Community ✅</a></blockquote>
 """
 
     MANUALFILTER_TXT = """<b>❓ Help: Filters</b>
@@ -144,12 +144,12 @@ This module only works for my admins.
 📦 Fɪʟᴇ Sɪᴢᴇ: 💾 <code>{file_size}</code>
 
 
-🔗 [⚡ Jᴏɪɴ Eʟᴅᴏʀᴀᴅᴏ ⚡](https://t.me/+53lB8qzQaGFlNDll)</b></blockquote>"""
+🔗 [⚡ Reel Community ⚡](https://t.me/reelcommunity)</b></blockquote>"""
     
     RESTART_GC_TXT = """
 <b>🔄 𝖡𝗈𝗍 𝖱𝖾𝗌𝗍𝖺𝗋𝗍𝖾𝖽!</b>
-Kuttu Bot  
-<a href="https://t.me/im_goutham_josh">@im_goutham_josh</a>
+Reel Bot  
+<a href="https://t.me/reelcommunity">@reelcommunity</a>
 
 📅 𝖣𝖺𝗍𝖾 : <code>{}</code>  
 ⏰ 𝖳𝗂𝗆𝖾 : <code>{}</code>  
@@ -193,11 +193,11 @@ Take a peek at the instructions below and let’s try again! 👇🏼
     OLD_MES = "Eᴅᴀᴀ Mᴏɴᴇʜ, 𝐘𝐨𝐮 𝐚𝐫𝐞 𝐮𝐬𝐢𝐧𝐠 𝐨𝐧𝐞 𝐨𝐟 𝐦𝐲 𝐨𝐥𝐝 𝐦𝐞𝐬𝐬𝐚𝐠𝐞𝐬 🤔. 𝐏𝐥𝐞𝐚𝐬𝐞 𝐬𝐞𝐧𝐝 𝐭𝐡𝐞 𝐫𝐞𝐪𝐮𝐞𝐬𝐭 𝐚𝐠𝐚𝐢𝐧."
 
     MOV_NT_FND = """<b>Eᴅᴀᴀ Mᴏɴᴇʜ, Tʜɪs Mᴏᴠɪᴇ ɪs Nᴏᴛ Yᴇᴛ Rᴇʟᴇᴀsᴇᴅ ᴏʀ Aᴅᴅᴇᴅ Tᴏ ᴅᴀᴛᴀʙᴀsᴇ.</b>
-<blockquote>Report To ADMIN - <a href="https://t.me/im_goutham_josh">@im_goutham_josh</a></blockquote>
+<blockquote>Report To ADMIN - <a href="https://t.me/reelgroup1">@reelgroup1</a></blockquote>
 """
 
     RESTART_TXT = """<b><u>𝖡𝗈𝗍 𝖱𝖾𝗌𝗍𝖺𝗋𝗍𝖾𝖽 ✅
-Kuttu Bot ¹ 💓</u></b>"""
+Reel Bot 💓</u></b>"""
     DMCA_TXT = """<b><u>This Telegram bot is designed to operate within the guidelines of the Digital Millennium Copyright Act (DMCA) and respects intellectual property rights. We are committed to responding to any valid DMCA takedown notices promptly.</u></b>
 
 <blockquote>Please send your DMCA takedown notice to dmcarexie@proton.me</blockquote>
