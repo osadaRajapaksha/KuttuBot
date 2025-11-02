@@ -17,7 +17,7 @@ BATCH_FILES = {}
 from datetime import datetime, timedelta
 import random
 
-AUTO_DELETE_SECONDS = 1500  
+AUTO_DELETE_SECONDS = 15000  
 
 # Helper function to create buttons for specific channel
 async def create_file_buttons(client, sent_message):
