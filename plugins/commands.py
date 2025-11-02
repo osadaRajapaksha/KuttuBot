@@ -17,7 +17,7 @@ BATCH_FILES = {}
 from datetime import datetime, timedelta
 import random
 
-AUTO_DELETE_SECONDS = 15  
+AUTO_DELETE_SECONDS = 1500  
 
 # Helper function to create buttons for specific channel
 async def create_file_buttons(client, sent_message):
@@ -114,7 +114,7 @@ async def send_file_to_user(client, user_id, file_id, protect_content_flag, file
                 caption=caption,
                 protect_content=protect_content_flag,
             )
-            await asyncio.sleep(300)
+            await asyncio.sleep(30000)
             await xdd.delete()
     except Exception as e:
         logger.error(f"File send error: {e}")
