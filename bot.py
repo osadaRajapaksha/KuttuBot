@@ -4,7 +4,7 @@ from datetime import datetime, timedelta, date
 import os
 import sys, re
 
-# Get logging configurations
+# Get logging configurationss
 logging.config.fileConfig('logging.conf')
 logging.getLogger().setLevel(logging.INFO)
 logging.getLogger("pyrogram").setLevel(logging.ERROR)
